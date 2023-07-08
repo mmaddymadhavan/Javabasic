@@ -1,0 +1,30 @@
+package basicconcept;
+
+public class Primitivedatatypes {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		String name = "Madhavan";
+		System.out.println(name);
+		byte age = 26;
+		System.out.println(age);
+		float weight =  65.5F;
+		System.out.println(weight);
+		double height =  165.561614916911;
+		System.out.println(height);
+		long phoneNumber = 98959895989595L;
+		System.out.println(phoneNumber);
+		int number =  156488484;
+		System.out.println(number);
+		short salary = 10000;
+		System.out.println(salary);
+		char initial = 'K';
+		System.out.println(initial);
+		
+		boolean liked = true;
+	}
+	
+	
+
+}
